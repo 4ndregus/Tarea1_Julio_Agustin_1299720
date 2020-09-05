@@ -1,0 +1,21 @@
+﻿  Ejercicio1.cpp
+  Ejercicio2.cpp
+  Ejercicio3.cpp
+  Ejercicio4.cpp
+C:\Users\Andres\Desktop\URL JA. Agustín_G\CICLO 2\Programación avanzada laboratorio\Tarea1_Julio_Agustin_1299720\Ejercicio4.h(394,11): warning C4101: 'Caracter': variable local sin referencia
+C:\Users\Andres\Desktop\URL JA. Agustín_G\CICLO 2\Programación avanzada laboratorio\Tarea1_Julio_Agustin_1299720\Ejercicio4.h(421,12): warning C4101: 'cadena': variable local sin referencia
+C:\Users\Andres\Desktop\URL JA. Agustín_G\CICLO 2\Programación avanzada laboratorio\Tarea1_Julio_Agustin_1299720\Ejercicio4.h(466,19): warning C4101: 'e': variable local sin referencia
+C:\Users\Andres\Desktop\URL JA. Agustín_G\CICLO 2\Programación avanzada laboratorio\Tarea1_Julio_Agustin_1299720\Ejercicio4.h(505,20): warning C4101: 'e': variable local sin referencia
+  MenuDeEjercicios.cpp
+C:\Users\Andres\Desktop\URL JA. Agustín_G\CICLO 2\Programación avanzada laboratorio\Tarea1_Julio_Agustin_1299720\MenuDeEjercicios.h(1,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Andres\Desktop\URL JA. Agustín_G\CICLO 2\Programación avanzada laboratorio\Tarea1_Julio_Agustin_1299720\MenuDeEjercicios.h(2,9): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Andres\Desktop\URL JA. Agustín_G\CICLO 2\Programación avanzada laboratorio\Tarea1_Julio_Agustin_1299720\MenuDeEjercicios.h(3,9): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Andres\Desktop\URL JA. Agustín_G\CICLO 2\Programación avanzada laboratorio\Tarea1_Julio_Agustin_1299720\MenuDeEjercicios.h(4,9): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Andres\Desktop\URL JA. Agustín_G\CICLO 2\Programación avanzada laboratorio\Tarea1_Julio_Agustin_1299720\Ejercicio4.h(394,11): warning C4101: 'Caracter': variable local sin referencia
+C:\Users\Andres\Desktop\URL JA. Agustín_G\CICLO 2\Programación avanzada laboratorio\Tarea1_Julio_Agustin_1299720\Ejercicio4.h(421,12): warning C4101: 'cadena': variable local sin referencia
+C:\Users\Andres\Desktop\URL JA. Agustín_G\CICLO 2\Programación avanzada laboratorio\Tarea1_Julio_Agustin_1299720\Ejercicio4.h(466,19): warning C4101: 'e': variable local sin referencia
+C:\Users\Andres\Desktop\URL JA. Agustín_G\CICLO 2\Programación avanzada laboratorio\Tarea1_Julio_Agustin_1299720\Ejercicio4.h(505,20): warning C4101: 'e': variable local sin referencia
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generando código...
+  Ejercicio1.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Tarea1_Julio_Agustin_1299720.vcxproj -> C:\Users\Andres\Desktop\URL JA. Agustín_G\CICLO 2\Programación avanzada laboratorio\Tarea1_Julio_Agustin_1299720\x64\Debug\Tarea1_Julio_Agustin_1299720.exe

@@ -1,0 +1,9 @@
+C:\Users\Andres\Desktop\URL JA. Agustín_G\CICLO 2\Programación avanzada laboratorio\Tarea1_Julio_Agustin_1299720\x64\Debug\Tarea1_Julio_Agustin_1299720.vcxprojAssemblyReference.cache
+C:\Users\Andres\Desktop\URL JA. Agustín_G\CICLO 2\Programación avanzada laboratorio\Tarea1_Julio_Agustin_1299720\x64\Debug\Tarea1JulioAgustin1299720.Ejercicio1.resources
+C:\Users\Andres\Desktop\URL JA. Agustín_G\CICLO 2\Programación avanzada laboratorio\Tarea1_Julio_Agustin_1299720\x64\Debug\Tarea1JulioAgustin1299720.Ejercicio2.resources
+C:\Users\Andres\Desktop\URL JA. Agustín_G\CICLO 2\Programación avanzada laboratorio\Tarea1_Julio_Agustin_1299720\x64\Debug\Tarea1JulioAgustin1299720.Ejercicio3.resources
+C:\Users\Andres\Desktop\URL JA. Agustín_G\CICLO 2\Programación avanzada laboratorio\Tarea1_Julio_Agustin_1299720\x64\Debug\Tarea1JulioAgustin1299720.Ejercicio4.resources
+C:\Users\Andres\Desktop\URL JA. Agustín_G\CICLO 2\Programación avanzada laboratorio\Tarea1_Julio_Agustin_1299720\x64\Debug\Tarea1JulioAgustin1299720.MenuDeEjercicios.resources
+C:\Users\Andres\Desktop\URL JA. Agustín_G\CICLO 2\Programación avanzada laboratorio\Tarea1_Julio_Agustin_1299720\x64\Debug\Tarea1_Julio_Agustin_1299720.vcxproj.GenerateResource.cache
+C:\Users\Andres\Desktop\URL JA. Agustín_G\CICLO 2\Programación avanzada laboratorio\Tarea1_Julio_Agustin_1299720\x64\Debug\Tarea1_Julio_Agustin_1299720.exe
+C:\Users\Andres\Desktop\URL JA. Agustín_G\CICLO 2\Programación avanzada laboratorio\Tarea1_Julio_Agustin_1299720\x64\Debug\Tarea1_Julio_Agustin_1299720.pdb
